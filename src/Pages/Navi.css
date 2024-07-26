@@ -1,0 +1,49 @@
+.navigation{
+    padding: 0;
+    margin: 0;
+    left: 0;
+    width: 100%;
+}
+
+nav{
+    display: flex;
+    width: 100%;
+}
+
+.button{
+    padding: 20px;
+}
+
+h1{
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+}
+
+.logoo{
+    flex: 6;
+    background-color:aqua;
+}
+
+.one{
+    flex: 2;
+    background-color:aquamarine;
+}
+
+.two{
+    flex: 2;
+    background-color:azure;
+}
+
+.three{
+    flex: 2;
+    background-color:bisque;
+}
+
+.sticky{
+    position: sticky;
+    top: 0%;
+    width: 100%;
+}
